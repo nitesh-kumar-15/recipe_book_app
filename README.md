@@ -1,3 +1,3 @@
 # recipe_book_app
 
-A new Flutter project.
+Quick Weeknight Recipe Studio — Flutter recipe book app (MAD CW-02).
